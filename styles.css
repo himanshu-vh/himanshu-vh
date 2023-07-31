@@ -1,0 +1,22 @@
+body {
+	background-color: #C0C0C0;
+	border: 10px solid Tomato;
+	margin: 50px;
+	padding: 50px
+}
+
+h1 {
+	color: #9A7D0A;
+	font-size: 30px;
+	background-color: DodgerBlue;
+}
+
+p {
+	color: black;
+	font-family: verdana;
+}
+
+img {
+	transform: rotate(90deg);
+	margin: 50px;
+}
